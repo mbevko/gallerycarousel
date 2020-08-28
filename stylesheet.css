@@ -1,0 +1,27 @@
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  width: 70px;
+  cursor: pointer;
+}
+
+.one {
+  display: block;
+}
+
+.img_container {
+  height: 200px;
+  width: 300px;
+  border: solid black;
+  margin: 0 10px;
+}
+
+div img {
+  width: 300px;
+  display: none;
+}
+
